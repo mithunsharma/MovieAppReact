@@ -1,0 +1,54 @@
+body{
+    margin-top: 30px;
+  background: url("http://allpicts.in/wp-content/uploads/2015/01/Vintage-Pattern-HD-Wallpaper-gold.jpg") no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+
+}
+
+a{
+  font-style: oblique;
+  color: white;
+}
+.search-form{
+    width: 100%;
+    margin: auto;
+    background: #f4f4f4;
+    padding: 0 20px 20px 20px;
+    border: 1px #ccc solid;
+    border-radius: 10px;
+}
+#image{
+  padding: 5px;
+}
+.img-rounded{
+  padding: 10px;
+  width: 1140px;
+}
+img{
+    height : 400px;
+    width: 300px;
+}
+#searchbar{
+  background-color: grey;
+  padding-top: 20px;
+}
+
+.thumbnail {
+  height : 50%;
+  width: 80%;
+}
+div .style{
+  background-color: #F2EEB3;
+  padding:5px;
+}
+#search{
+  background-color: #BFAF80;
+  padding: 5px;
+  border-style:1px;
+}
+div #title{
+  padding-right: 20px;
+}
